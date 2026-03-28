@@ -52,7 +52,7 @@ face-mask-detection/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/face-mask-detection.git
+git clone https://github.com/Shashwat-Balodhi/Computer-Vision-mask-detection-vityarthi.git
 cd face-mask-detection
 ```
 
